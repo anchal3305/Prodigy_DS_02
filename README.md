@@ -1,5 +1,3 @@
-# Prodigy_DS_02
-## Prodigy_Infotech_DS_Task2_Titanic_Dataset
 ## Project On- Titanic Survival
 
 ### Domain- Data Cleaning & Exploratory Data Analysis (EDA)
